@@ -10,7 +10,7 @@ namespace WebApplication1.Controllers
     {
         public IActionResult Index()
         {
-            int= 5;
+            int= 95;
             return View();
         }
 
