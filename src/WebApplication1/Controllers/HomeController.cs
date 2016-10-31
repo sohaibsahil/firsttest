@@ -11,6 +11,7 @@ namespace WebApplication1.Controllers
         public IActionResult Index()
         {
             int= 95;
+            int= 57;
             return View();
         }
 
